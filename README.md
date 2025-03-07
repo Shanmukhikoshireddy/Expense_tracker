@@ -13,7 +13,7 @@ Expense Tracker is a user-friendly web application built using Streamlit that al
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/Shanmukhikoshireddy/expense-tracker.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -35,7 +35,7 @@ streamlit run app.py
 ![Budget Setup](budget_setup.png)
 
 ### 📜 Expense History
-![Expense History](expense_history.png)
+![Expense History](Add_expense.png)
 
 ### 📊 Expense Summary
 ![Expense Summary](expense_summary.png)
